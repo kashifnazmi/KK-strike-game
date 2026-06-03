@@ -1,0 +1,6 @@
+{
+  "name": "KK strike",
+  "description": "A professional real-time multiplayer Tic Tac Toe game featuring SQLite leaderboard statistics, active visual room lobbies, real-time battle chat, and offline practice vs AI bots.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
